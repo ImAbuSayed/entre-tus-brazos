@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Entre tus brazos
+
+This log tracks the cryptographic history and versioning for the song **Entre tus brazos** (entre-tus-brazos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:09:30.557591 | `v1` | `e211e2a65fbcaa130861a001b03b00736a72680a9357f6a6c42c35e2c77dc1ca` | `5fdbbfaa913ded5166b2617771503560d4cc31ee6a029fb35b0aa705aa0b6e10` | `2026-06-15_entre-tus-brazos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
