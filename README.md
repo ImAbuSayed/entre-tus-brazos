@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/entre-tus-brazos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Entre tus brazos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/entre-tus-brazos/) |
+| **Get License** | [License this song: Entre tus brazos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/entre-tus-brazos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche te busco, me pierdo en tu olor
+> Madrid está frío, pero tú das calor
+> Bailando en lo oscuro, no hay otra intención
+> Que quedarme atrapado en tu respiración
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
